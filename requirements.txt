@@ -1,11 +1,13 @@
-awscli==1.9.20
-botocore==1.3.20
+awscli==1.10.26
+botocore==1.4.17
 colorama==0.3.3
 docutils==0.12
+futures==3.0.5
 jmespath==0.9.0
 pyasn1==0.1.9
-python-dateutil==2.4.2
+python-dateutil==2.5.3
 rsa==3.3
+s3transfer==0.0.1
 six==1.10.0
 virtualenv==13.1.2
 wheel==0.26.0
