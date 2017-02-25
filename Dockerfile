@@ -1,4 +1,4 @@
-FROM python:2-onbuild
+FROM python:3-onbuild
 
 MAINTAINER Matthias Nüßler <m.nuessler@web.de>
 
